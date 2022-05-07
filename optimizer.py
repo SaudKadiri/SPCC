@@ -1,5 +1,6 @@
 # a declaration example is a = b; a is the lhs and b is the rhs
-# here the key will be lsh and the value will be rhs
+# here `declarations` is a dictionary the key will be lhs and the value will be rhs
+
 declarations = {}
 
 with open("input.txt", "r") as f:
